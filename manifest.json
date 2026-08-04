@@ -1,0 +1,19 @@
+{
+  "name": "Japón 2026 · Nuestro viaje",
+  "short_name": "Japón 2026",
+  "description": "Itinerario compartido de nuestro viaje a Japón",
+  "start_url": "/japon-2026/",
+  "scope": "/japon-2026/",
+  "display": "standalone",
+  "background_color": "#f7f4ee",
+  "theme_color": "#182b3a",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
